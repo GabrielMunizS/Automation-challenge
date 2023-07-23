@@ -9,7 +9,7 @@ and transform it to a simple chart and send it to any email you want, in additio
 
 I've added the files that will be needed for the code to work correctly, change the code as you please.
 
-Don't waste your time sending emails, these accounts are made for the only purpose of testing, no one will see your little joke.
+Don't waste your time sending emails to these accounts. They are made for the only purpose of testing, no one will see your little joke.
 
 # Texto em português
 Este código é uma resposta a um desafio que encontrei em um curso que estou cursando. Este código é capaz de obter muitas informações de planilhas
@@ -17,5 +17,5 @@ e transformá-lo em uma planilha simples e enviá-lo para qualquer e-mail que de
 
 Eu adicionei os arquivos que serão necessarios para o código funcionar corretamente, mude o código ao seu bel-prazer.
 
-Não perca seu tempo mandando e-mails, essas contas são feitas apenas para teste, ninguém vai ver sua piadinha.
+Não perca seu tempo mandando e-mails para essas contas, elas são feitas apenas para teste e ninguém vai ver sua piadinha.
 
